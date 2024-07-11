@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="70%">
+Hello ! <br>
+I am Caner Dedeoğlu, a graduate of Software Engineering from Fırat University. My passion for software development and technology constantly drives me to learn new things and work on projects. I am particularly focused on developing my skills in Android development and aspire to specialize in this field. I am interested in mobile application development, new technologies, and software trends. In the future, I aim to further develop myself through new projects, apply what I have learned, and create advanced Android applications.
+
 </p>
 
 
