@@ -1,5 +1,5 @@
 
-<p> <b> Hello 👋 </b></p>
+<p> <b> Hello 👋,  </b></p>
 <p> I am Caner Dedeoğlu, a graduate of Software Engineering from Fırat University. My passion for software development and technology constantly drives me to learn new things and work on projects. </p>
 <p> I am particularly focused on developing my skills in Android development and aspire to specialize in this field. </p> 
 <p> I am interested in mobile application development, new technologies, and software trends. In the future, I aim to further develop myself through new projects, apply what I have learned, and create advanced Android applications. </p>
